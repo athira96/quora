@@ -8,9 +8,9 @@ https://www.kaggle.com/c/quora-question-pairs/data
   python 2.7 or above
   
 # python packages
-pandas
-numpy
-nltk
+  pandas
+  numpy
+  nltk
 
 # input file
 The dataset for training must be given as train.csv
