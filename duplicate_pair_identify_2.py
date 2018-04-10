@@ -54,7 +54,3 @@ sub = pd.DataFrame()
 sub['test_id'] = testdata_frame['test_id']
 sub['duplicate_index'] = testdata_frame['duplicate_index']
 sub.to_csv('output.csv', index=False)
-
-
-
-
