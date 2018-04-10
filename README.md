@@ -8,8 +8,8 @@ https://www.kaggle.com/c/quora-question-pairs/data
   python 2.7 or above
   
 # python packages
-  pandas
-  numpy
+  pandas <br>
+  numpy <br>
   nltk
 
 # input file
